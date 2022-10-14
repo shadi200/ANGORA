@@ -1,3 +1,3 @@
-# ANGORA first project [Simone Theme]
-simple landing page [HTML - CSS]
+# ANGORA 
+simple landing page [HTML - CSS - bootstrap]
 responsive
