@@ -1,3 +1,3 @@
 # ANGORA 
 simple landing page [HTML - CSS - bootstrap]
-responsive
+responsive 100%
